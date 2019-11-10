@@ -1,0 +1,62 @@
+.card {
+  background-color: red;
+  border-radius: 14px;
+  padding: 5px;
+  width: 320px;
+}
+html {
+  font-size: 15px;
+}
+span {
+  font-weight: bold;
+}
+.decorative {
+  background: linear-gradient(to bottom right, pink, red);
+  border-radius: 10px;
+  border: 1px black;
+  padding: 7px;
+}
+.species {
+  border-radius: 4px;
+  border: solid black 2px;
+  color: white;
+  padding: 1px;
+  text-align: center;
+  bottom-margin:5px;
+  margin-right: 30px;
+  margin-left: 30px;
+  background-color: rgb(8, 139, 8);
+  font-family: 'Indie Flower', cursive;
+}
+.top img {
+  height: 300px;
+  width: 300px;
+  border-radius: 4px;
+  border: solid black 2px;
+  margin: 1px;
+  margin-top: 10px
+
+}
+.bottom {
+  border: solid black 2px;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 7px;
+  color: white;
+  background-color: rgba(5, 81, 157, 1);
+}
+.interesting_fact {
+  font-style: italic;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+ul {
+  list-style-type: none;
+  font-family: 'Supermercado One', cursive;
+}
+.description {
+  font-family: 'Graduate', cursive;
+}
+.info {
+  font-family: 'Rammetto One', cursive;
+}
